@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.top{
+  background-image: url(./img/top.png);
+  background-size: cover;
+  color: aliceblue;
+}
+
+.plans-item{
+  display: flex;
+  justify-content: center;
+}
+
+.card-title{
+  height: 20px;
+}
+
